@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.1",
         "guzzlehttp/guzzle": "^6.3|^7.0.1",
-        "kornrunner/secp256k1": "^0.2.0",
+        "kornrunner/secp256k1": "0.2.0",
         "happyyyyyyyyy/web3": "^1.0",
         "simplito/elliptic-php": "^1.0"
     },
